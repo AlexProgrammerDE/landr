@@ -1,4 +1,19 @@
 - commits:
+    - subject: Configure dependabot to send "patch" prefixed commits
+      hash: 3a41a5dd98bd7000a7a1bedcbcb157781b81eca8
+      body: |
+        This allows versionbot to interpret the PRs as patch type commits.
+
+        Fixes product-os/landr#291
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Lucian Buzzo <lucian.buzzo@gmail.com>
+        signed-off-by: Lucian Buzzo <lucian.buzzo@gmail.com>
+      author: Lucian Buzzo
+  version: 5.30.4
+  date: 2020-04-06T09:50:43.712Z
+- commits:
     - subject: Bump handlebars from 4.1.2 to 4.3.0
       hash: 9b4986c274c240ee8b2e22176e571df7ff462133
       body: >
