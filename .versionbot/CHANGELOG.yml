@@ -1,4 +1,16 @@
 - commits:
+    - subject: Use repos name in contributing block instead of "Landr"
+      hash: 725456f635b1edcf4fb8c3e3931bf0767011dffa
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Lucian Buzzo <lucian.buzzo@gmail.com>
+        signed-off-by: Lucian Buzzo <lucian.buzzo@gmail.com>
+      author: Lucian Buzzo
+  version: 5.31.1
+  date: 2020-04-10T15:40:25.962Z
+- commits:
     - subject: Add code to run landr as a probot app
       hash: 8c0c44f40114b655ec5974d863fc82ab73f041b6
       body: ''
